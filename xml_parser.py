@@ -21,7 +21,6 @@ def convert_json_to_xml(json_data):
     
     return root
 
-# Example JSON data
 
 # Read JSON data from file
 with open("json_data.json", "r") as json_file:
